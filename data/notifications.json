@@ -1,0 +1,31 @@
+[
+  {
+    "id": "af0aebae-a3cb-476d-bdd7-14a5e024be03",
+    "status": "unread"
+  },
+  {
+    "id": "ab1e7b9d-9800-4481-ab55-1a7ab9a88fbf",
+    "target": "specific",
+    "userId": "12345",
+    "message": "Your order #123 has been placed.",
+    "source": "order_service",
+    "timestamp": "2024-09-25T14:48:00Z",
+    "status": "unread"
+  },
+  {
+    "id": "fcad0263-e177-4b97-b9a2-5c58c0421321",
+    "target": "all_users",
+    "message": "Don't miss our site-wide sale!",
+    "source": "marketing_service",
+    "timestamp": "2024-09-25T14:48:00Z",
+    "status": "unread"
+  },
+  {
+    "id": "93e34ae8-1576-4036-a113-86a0459050db",
+    "target": "all_users",
+    "message": "HELLO",
+    "source": "marketing_service",
+    "timestamp": "2024-09-25T14:48:00Z",
+    "status": "unread"
+  }
+]
